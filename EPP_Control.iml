@@ -13,7 +13,10 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Reader-API-Java-1.0" level="project" />
     <orderEntry type="library" name="api-1.0" level="project" />
+<<<<<<< HEAD
+=======
     <orderEntry type="library" name="Maven: reader:api:1.0" level="project" />
+>>>>>>> 884e583ec51d9fd9829be5babe99b41b0808f4ca
   </component>
 </module>
 
