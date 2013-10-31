@@ -1,7 +1,4 @@
-
-
 import com.thingmagic.*;
-
 
 public class ReaderS3
 {

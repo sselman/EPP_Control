@@ -2,18 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/api_1_0.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EPP_Control.iml" afterPath="$PROJECT_DIR$/EPP_Control.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__reader_api_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/api_1_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EPP_Control.iml" afterPath="$PROJECT_DIR$/EPP_Control.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ReaderS3.java" afterPath="$PROJECT_DIR$/src/main/java/ReaderS3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+>>>>>>> 884e583ec51d9fd9829be5babe99b41b0808f4ca
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EPP_Control.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Reader.java" changelist="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" time="1383180059151" ignored="false" />
+<<<<<<< HEAD
     <file path="$USER_HOME$/Sites/evoting/evoting-platform/encrypt-server/.idea/workspace.xml" changelist="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" time="1383183238891" ignored="false" />
     <file path="/pom.xml" changelist="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" time="1383183221960" ignored="false" />
     <file path="/Dummy.txt" changelist="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" time="1383183471189" ignored="false" />
+=======
+    <file path="$USER_HOME$/Sites/evoting/evoting-platform/encrypt-server/.idea/workspace.xml" changelist="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" time="1383184187841" ignored="false" />
+    <file path="/pom.xml" changelist="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" time="1383183938797" ignored="false" />
+    <file path="/Dummy.txt" changelist="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" time="1383183300778" ignored="false" />
+    <file path="/ReaderS3.java" changelist="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" time="1383183811863" ignored="false" />
+>>>>>>> 884e583ec51d9fd9829be5babe99b41b0808f4ca
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +93,11 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="26" column="10" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0">
+=======
+            <state line="63" column="21" selection-start="2395" selection-end="2395" vertical-scroll-proportion="0.8187311">
+>>>>>>> 884e583ec51d9fd9829be5babe99b41b0808f4ca
               <folding />
             </state>
           </provider>
@@ -86,7 +106,11 @@
       <file leaf-file-name="ReaderS3.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ReaderS3.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="16" column="39" selection-start="382" selection-end="382" vertical-scroll-proportion="0.29666254">
+=======
+            <state line="21" column="0" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0">
+>>>>>>> 884e583ec51d9fd9829be5babe99b41b0808f4ca
               <folding />
             </state>
           </provider>
@@ -116,8 +140,25 @@
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="MavenProjectNavigator">
     <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="EPP_Control" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
       <PATH>
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
@@ -443,8 +484,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="10" y="22" width="2540" height="1367" extended-state="0" />
     <editor active="true" />
+=======
+    <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
+    <editor active="false" />
+>>>>>>> 884e583ec51d9fd9829be5babe99b41b0808f4ca
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -456,10 +502,17 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15677626" sideWeight="0.6712109" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24939856" sideWeight="0.6712109" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287891" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15544675" sideWeight="0.7632743" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.249694" sideWeight="0.7632743" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23672566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> 884e583ec51d9fd9829be5babe99b41b0808f4ca
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -569,13 +622,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ReaderS3.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="44" column="105" selection-start="957" selection-end="957" vertical-scroll-proportion="0.0">
+=======
+        <state line="21" column="0" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0">
+>>>>>>> 884e583ec51d9fd9829be5babe99b41b0808f4ca
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -591,6 +649,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ReaderS3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="39" selection-start="382" selection-end="382" vertical-scroll-proportion="0.29666254">
+=======
+        <state line="63" column="21" selection-start="2395" selection-end="2395" vertical-scroll-proportion="0.8187311">
+>>>>>>> 884e583ec51d9fd9829be5babe99b41b0808f4ca
           <folding />
         </state>
       </provider>
