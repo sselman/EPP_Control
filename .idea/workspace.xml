@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/reader/api/1.0/api-1.0.jar" afterPath="$PROJECT_DIR$/lib/reader/api/1.0/api-1.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EPP_Control.iml" afterPath="$PROJECT_DIR$/EPP_Control.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EPP_Control.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Reader.java" changelist="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" time="1383180059151" ignored="false" />
-    <file path="$USER_HOME$/Sites/evoting/evoting-platform/encrypt-server/.idea/workspace.xml" changelist="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" time="1383185795884" ignored="false" />
+    <file path="$USER_HOME$/Sites/evoting/evoting-platform/encrypt-server/.idea/workspace.xml" changelist="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" time="1383186193422" ignored="false" />
     <file path="/pom.xml" changelist="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" time="1383183938797" ignored="false" />
     <file path="/Dummy.txt" changelist="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" time="1383185467907" ignored="false" />
     <file path="/ReaderS3.java" changelist="6fcb8d51-015c-4a2d-8d3b-474d6337f0c8" time="1383183811863" ignored="false" />
@@ -78,7 +75,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="31" selection-start="1825" selection-end="1825" vertical-scroll-proportion="0.16795069">
+            <state line="82" column="36" selection-start="3184" selection-end="3184" vertical-scroll-proportion="0.69953775">
               <folding />
             </state>
           </provider>
@@ -562,7 +559,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="31" selection-start="1825" selection-end="1825" vertical-scroll-proportion="0.16795069">
+        <state line="82" column="36" selection-start="3184" selection-end="3184" vertical-scroll-proportion="0.69953775">
           <folding />
         </state>
       </provider>
