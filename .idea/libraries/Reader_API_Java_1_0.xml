@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Reader-API-Java-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Reader-API-Java-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
